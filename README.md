@@ -11,7 +11,7 @@ Use the data to complete the following tasks:
 
 ### Development
 
-For development, you can use `main.py` to test your functions. Click the "run" button and `main.py` will run.
+For development, you can use `main.py` to test your functions.
 
 ### Data Source
 Global Average Absolute Sea Level Change, 1880-2014 from the US Environmental Protection Agency using data from CSIRO, 2015; NOAA, 2015.
