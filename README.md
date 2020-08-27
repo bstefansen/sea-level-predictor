@@ -16,8 +16,8 @@ I built this project to better understand Python's data science packages and uti
 - Clone the repository into a local folder on your computer
 - Open a Bash terminal inside your local folder
 - Import the necessary packages by running these commands
-  - `python
-     import pandas, numpy, matplotlib, scipy`
+  - `python`
+  - `import pandas, numpy, matplotlib, scipy`
   - `exit()` 
 - Start the main.py script by running this command
   - `python main.py`
