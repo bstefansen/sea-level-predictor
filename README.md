@@ -15,7 +15,10 @@ I built this project to better understand Python's data science packages and uti
 - Download Python
 - Clone the repository into a local folder on your computer
 - Import the necessary packages
-  - test
+  - `python
+     import pandas, numpy, matplotlib, scipy
+     exit()`
+- `python main.py`
 
 ### Development
 
