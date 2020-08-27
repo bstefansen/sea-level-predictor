@@ -8,15 +8,15 @@ A Python script used to calculate future predictions for sea level change throug
 I built this project to better understand Python's data science packages and utilize different modules like NumPy, Pandas, and Matplotlib.
 
 ## Features
-- Users can upload books to the application
-- Users can see books created by the same author after clicking on a book
+- Users can calculate data plots after running the program
+- Users predict further into the future if necessary and change the dataset
 
 ## Installation
 - UNDER CONSTRUCTION
 
 ### Development
 
-For development, you can use `main.py` to test your functions.
+For development, you can use `main.py` to test your functions. The calculations rest in `sea_level_predictor.py`
 
 ### Data Source
 Global Average Absolute Sea Level Change, 1880-2014 from the US Environmental Protection Agency using data from CSIRO, 2015; NOAA, 2015.
