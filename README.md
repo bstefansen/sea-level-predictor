@@ -12,7 +12,10 @@ I built this project to better understand Python's data science packages and uti
 - Users can predict further into the future if necessary and change the dataset
 
 ## Installation
-- UNDER CONSTRUCTION
+- Download Python
+- Clone the repository into a local folder on your computer
+- Import the necessary packages
+-- test
 
 ### Development
 
