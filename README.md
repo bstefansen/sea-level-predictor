@@ -9,7 +9,7 @@ I built this project to better understand Python's data science packages and uti
 
 ## Features
 - Users can calculate data plots after running the program
-- Users predict further into the future if necessary and change the dataset
+- Users can predict further into the future if necessary and change the dataset
 
 ## Installation
 - UNDER CONSTRUCTION
