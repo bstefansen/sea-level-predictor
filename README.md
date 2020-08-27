@@ -14,11 +14,13 @@ I built this project to better understand Python's data science packages and uti
 ## Installation
 - Download Python
 - Clone the repository into a local folder on your computer
+- Open a Bash terminal inside your local folder
 - Import the necessary packages
   - `python
      import pandas, numpy, matplotlib, scipy
      exit()`
-- `python main.py`
+- Run the `main.py` script
+  - `python main.py`
 
 ### Development
 
