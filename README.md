@@ -22,13 +22,13 @@ I built this project to better understand Python's data science packages and uti
 - Start the main.py script by running this command
   - `python main.py`
 
-### Development
+## Development
 
 For development, you can use `main.py` to test your functions. The calculations rest in `sea_level_predictor.py`
 
-### Data Source
+## Data Source
 Global Average Absolute Sea Level Change, 1880-2014 from the US Environmental Protection Agency using data from CSIRO, 2015; NOAA, 2015.
 https://datahub.io/core/sea-level-rise
 
-### License
+## License
 This project is licensed under the MIT License
