@@ -1,6 +1,6 @@
 # Sea Level Predictor
 
-A Python script used to calculate future predictions for sea level change through the year 2050.
+A Python script used to calculate future predictions for sea level change through the year 2050 using linear regression.
 
 ![Sea Level Predictor Screenshot](https://bstefansen.github.io/Portfolio/images/sea_level_plot.png)
 
